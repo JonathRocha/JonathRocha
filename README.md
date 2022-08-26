@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h4 align="center">I'm Jonathan Rocha, people also call me John 😃. A passionate fullstack software engineer from Brazil, currently working with NodeJS, React and React Native. I love to explore and learn about new things and create incredible things to help people.</h4>
+<h4 align="center">I'm Jonathan Rocha, people also call me John 😃. A passionate full-stack software engineer from Brazil, currently working with NodeJS, React and React Native. I love to explore and learn about new things and create incredible things to help people.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathrocha&label=Profile%20views&color=0e75b6&style=flat" alt="jonathrocha" /> </p>
 
